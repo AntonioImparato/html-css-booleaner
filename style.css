@@ -1,0 +1,40 @@
+body {
+    margin: 0%;
+}
+
+* {
+    margin-left: 5px;
+}
+
+header {
+    margin: 0%;
+    background-color: rgb(156, 214, 244);
+}
+
+header img {
+    width: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+h1 {
+    margin-bottom: 0%;
+}
+
+.foto {
+    height: 250px;
+}
+
+h4 span {
+    color: blue;
+}
+
+
+
+.text1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: rgba(132, 136, 161, 0.705);
+
+}
