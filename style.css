@@ -50,13 +50,47 @@ h4 span {
 
 .text2 {
     margin-top: 0%;
-    margin-bottom: 0%;
+    margin-bottom: 2%;
 }
 
 .color {
     background-color: yellow;
 }
 
+article {
+    padding-right: 100px;
+}
+
 .allinea {
     padding-left: 1%;
+}
+
+figure {
+    margin-right: 0%;
+}
+
+th {
+    background-color: rgb(127, 166, 251);
+    width: 300px;
+    text-align: left;
+    color: white;
+}
+
+p {
+    margin: 0%;
+}
+
+.colonna {
+    width: 800px;
+}
+
+.tdcolor {
+    background-color: rgb(223, 229, 242);
+}
+
+footer {
+    background-color: rgb(49, 58, 107);
+    color: white;
+    text-align: center;
+    padding: 1%;
 }
