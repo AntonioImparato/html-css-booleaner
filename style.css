@@ -1,9 +1,11 @@
 body {
     margin: 0%;
+
 }
 
 * {
     margin-left: 5px;
+
 }
 
 header {
@@ -16,6 +18,7 @@ header img {
     padding-bottom: 20px;
     padding-top: 20px;
     padding-left: 10px;
+    display: block;
 }
 
 h1 {
@@ -24,17 +27,36 @@ h1 {
 
 .foto {
     height: 250px;
+
 }
+
 
 h4 span {
     color: blue;
 }
 
-
-
-.text1 {
+.text {
     margin-top: 0%;
     margin-bottom: 0%;
     color: rgba(132, 136, 161, 0.705);
+}
 
+.text1 {
+    margin-top: 0%;
+    margin-bottom: 2%;
+    color: rgba(132, 136, 161, 0.705);
+
+}
+
+.text2 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.color {
+    background-color: yellow;
+}
+
+.allinea {
+    padding-left: 1%;
 }
