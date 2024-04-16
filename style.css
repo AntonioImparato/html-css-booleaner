@@ -1,12 +1,7 @@
 body {
     margin: 0%;
-
 }
 
-* {
-    margin-left: 5px;
-
-}
 
 header {
     margin: 0%;
@@ -14,74 +9,88 @@ header {
 }
 
 header img {
-    width: 15%;
-    padding-bottom: 20px;
-    padding-top: 20px;
-    padding-left: 10px;
+    width: 10%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 2%;
     display: block;
 }
 
 h1 {
     margin-bottom: 0%;
+    margin-left: 2%;
 }
 
-.foto {
+#picture-sectio {
     height: 250px;
+    margin-right: 0%;
+    margin-left: 2%;
+
+}
+
+#picture-section-ml0 {
+    height: 250px;
+    margin-left: 0%;
 
 }
 
 
 h4 span {
     color: blue;
+
 }
 
 .text {
     margin-top: 0%;
     margin-bottom: 0%;
     color: rgba(132, 136, 161, 0.705);
+    margin-left: 2%;
 }
 
 .text1 {
     margin-top: 0%;
     margin-bottom: 2%;
     color: rgba(132, 136, 161, 0.705);
+    margin-left: 2%;
 
 }
 
 .text2 {
     margin-top: 0%;
     margin-bottom: 2%;
+    margin-left: 2%;
+    ;
 }
 
 .color {
     background-color: yellow;
 }
 
-article {
-    padding-right: 100px;
-}
-
 .allinea {
     padding-left: 1%;
+    margin-left: 2%;
 }
 
 figure {
     margin-right: 0%;
+    margin-left: 2%;
 }
 
 th {
     background-color: rgb(127, 166, 251);
-    width: 300px;
     text-align: left;
     color: white;
+
 }
 
 p {
+    text-align: left;
     margin: 0%;
+    margin-left: 2%;
 }
 
 .colonna {
-    width: 800px;
+    width: 50%;
 }
 
 .tdcolor {
@@ -93,4 +102,5 @@ footer {
     color: white;
     text-align: center;
     padding: 1%;
+    margin-top: 2%;
 }
